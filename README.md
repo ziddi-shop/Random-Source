@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20By-ZIDDI%20SHOP-red?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Tools-Python%20Scripts-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power-Level-Over%209000🔥-pink?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEGEND--MODE-ACTIVE-brightgreen?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
