@@ -28,7 +28,7 @@ When you're lost in the matrix and need:
 - `country_info.py` — Get info on any country  
 - `github_info.py` — Pull GitHub user data  
 - `weather.py` — Fetch weather like a nerdy wizard  
-
+- `abuse.py` — Abuse Telegram Bot  
 ---
 
 ## 🧠 ZIDDI's Mind Behind It
